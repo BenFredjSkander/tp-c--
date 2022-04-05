@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1646302354 source:c:\users\skander\documents\codeblocks workspace\tp c++\tp2\exc1\main.cpp
+	<iostream>
+	<Point.h>
+
+1646302118 c:\users\skander\documents\codeblocks workspace\tp c++\tp2\exc1\include\point.h
+
+1646302399 source:c:\users\skander\documents\codeblocks workspace\tp c++\tp2\exc1\src\point.cpp
+	<iostream>
+	"Point.h"
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1648719510 source:c:\users\skander\documents\codeblocks workspace\tp c++\tp3\exc1\exc2\src\vecteur3d.cpp
+	"vecteur3d.h"
+
+1648719212 c:\users\skander\documents\codeblocks workspace\tp c++\tp3\exc1\exc2\include\vecteur3d.h
+
+1648726056 source:c:\users\skander\documents\codeblocks workspace\tp c++\tp3\exc1\exc2\main.cpp
+	<iostream>
+	<vecteur3d.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1648722378 source:c:\users\skander\documents\codeblocks workspace\tp c++\tp3\exc1\exc1\src\date.cpp
+	"Date.h"
+
+1648723403 c:\users\skander\documents\codeblocks workspace\tp c++\tp3\exc1\exc1\include\date.h
+
+1648723419 source:c:\users\skander\documents\codeblocks workspace\tp c++\tp3\exc1\exc1\main.cpp
+	<iostream>
+	<Date.h>
+
